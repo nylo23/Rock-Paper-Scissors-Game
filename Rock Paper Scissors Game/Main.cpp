@@ -12,7 +12,7 @@ int main()
 	int answer;
 
 
-	cout << "Choose your weapon! [1] Rock [2] Paper [3] Scissors\n";
+	cout << "Choose your weapon! [1] Rock [2] Paper [3] Scissors" << endl;
 
 	cin >> answer;
 	if (answer == 1)
