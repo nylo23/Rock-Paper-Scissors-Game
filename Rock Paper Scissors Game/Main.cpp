@@ -1,8 +1,5 @@
 #include <iostream>
-#include <unistd.h>
 #include <windows.h
-#include <cmath>
-#include <term.h>
 
 using namespace std;
 
